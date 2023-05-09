@@ -20,6 +20,9 @@ The get_response function takes in the user's input and uses the sentiment analy
 
 The chat function is the main function that runs the chatbot. It starts by greeting the user and then enters a loop, where it prompts the user for input and responds accordingly. If the user types "quit", the loop exits and the chatbot says goodbye.
 
+![image](https://user-images.githubusercontent.com/102237174/236987363-4b1431e9-9c95-4f06-8397-f8ae89e51a9f.png)
+
+
 <h1><b>Installation</b></h1>
 <ol>
   <li>Clone the repository to your local machine.</li>
