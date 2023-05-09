@@ -22,10 +22,15 @@ The chat function is the main function that runs the chatbot. It starts by greet
 
 <h1><b>Installation</b></h1>
 1. Clone the repository to your local machine.
+
 2. Install the required packages using pip:
+
 pip install transformers
+
 pip install torch
+
 pip install textblob
+
 pip install nltk
 
 3. Run the chatbot using the command:
