@@ -1,7 +1,7 @@
 # Mental-Health-Chatbot-Using-Sentiment-Analysis
 This is a simple mental health chatbot built using Python and the Natural Language Toolkit (NLTK) library. The chatbot is designed to listen to user input and provide appropriate responses based on the sentiment of the input. The sentiment analysis is done using the TextBlob library.
 <h1><b>Implementation</b></h1>
-he chatbot is built using the Python programming language and several libraries, including nltk, textblob, and transformers. The chatbot can be run in a command-line interface (CLI), allowing users to interact with the bot using natural language.
+The chatbot is built using the Python programming language and several libraries, including nltk, textblob, and transformers. The chatbot can be run in a command-line interface (CLI), allowing users to interact with the bot using natural language.
 
 The first step in building the chatbot is to install the required libraries. This can be done using the pip package manager. The required libraries are:
 
