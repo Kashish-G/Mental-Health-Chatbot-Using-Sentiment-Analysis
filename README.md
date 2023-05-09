@@ -5,10 +5,11 @@ The chatbot is built using the Python programming language and several libraries
 
 The first step in building the chatbot is to install the required libraries. This can be done using the pip package manager. The required libraries are:
 
-transformers
-torch
-textblob
-nltk
+1. transformers
+2. torch
+3. textblob
+4. nltk
+
 Once the libraries are installed, we can begin writing the code for the chatbot. The chatbot consists of two main parts: a pattern matching component and a sentiment analysis component.
 
 The pattern matching component is responsible for recognizing and responding to specific patterns in the user's input. For example, if the user says "hi" or "hello", the chatbot will respond with a greeting. We define a list of pairs, where each pair consists of a regular expression pattern and a list of possible responses. The nltk library provides a Chat class that allows us to easily define and use these pattern-response pairs.
