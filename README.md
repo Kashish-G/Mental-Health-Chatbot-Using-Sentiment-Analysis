@@ -21,23 +21,24 @@ The get_response function takes in the user's input and uses the sentiment analy
 The chat function is the main function that runs the chatbot. It starts by greeting the user and then enters a loop, where it prompts the user for input and responds accordingly. If the user types "quit", the loop exits and the chatbot says goodbye.
 
 <h1><b>Installation</b></h1>
-1. Clone the repository to your local machine.
-
-2. Install the required packages using pip:
-
-pip install transformers
-
-pip install torch
-
-pip install textblob
-
-pip install nltk
-
-3. Run the chatbot using the command:
-python chatbot.py
+<ol>
+  <li>Clone the repository to your local machine.</li>
+  <li>Install the required packages using pip:</li>
+  <ul>
+    <li>pip install transformers</li>
+    <li>pip install torch</li>
+    <li>pip install textblob</li>
+    <li>pip install nltk</li>
+  </ul>
+    <li>Run the chatbot using the command: python chatbot.py</li>
+    
+</ol>
 
 <h1><b>Usage</b></h1>
-1. When the chatbot is running, it will display a greeting message and wait for your input.
-2. Type your message and press Enter to send it to the chatbot.
-3. The chatbot will respond with an appropriate message based on the sentiment of your input.
-4. If you want to quit the chatbot, type "quit" and press Enter.
+  <ol>
+    <li> When the chatbot is running, it will display a greeting message and wait for your input.</li>
+    <li>Type your message and press Enter to send it to the chatbot.</li>
+    <li>The chatbot will respond with an appropriate message based on the sentiment of your input.</li>
+    <li>If you want to quit the chatbot, type "quit" and press Enter.</li>
+  </ol>
+
